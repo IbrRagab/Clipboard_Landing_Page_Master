@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution]()
-- Live Site URL: [live site]()
+- Solution URL: [Solution](https://github.com/IbrRagab/Clipboard_Landing_Page_Master)
+- Live Site URL: [live site](https://ibrragab.github.io/Clipboard_Landing_Page_Master)
 
 ## My process
 
